@@ -1,3 +1,10 @@
+# Shop-Website
+
+This is my solo project which was developed by using React.
+
+In the Shop Website project, you can add products to your cart by searching or clicking on the categories.
+Also, you can sort products by price or by rating.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
